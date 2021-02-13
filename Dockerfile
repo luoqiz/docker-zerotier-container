@@ -2,7 +2,7 @@
 
 FROM debian:buster-slim as builder
 
-ARG version="1.6.3"
+ARG version="1.6.3-1"
 
 ## Supports x86_64, x86, arm, and arm64
 
